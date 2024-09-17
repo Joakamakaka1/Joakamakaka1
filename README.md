@@ -4,10 +4,8 @@ Desarrollador Full Stack <br> <br> <img src="https://img.shields.io/badge/Java-0
 
 <img align="center" alt="Joaquín" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 Sobre mí:
-<p><b>Soy Joaquín, un amante de la tecnología &#128525;. Actualmente estoy cursando un curso de Desarrollo de Aplicaciones Web (DAW). Me encanta aprender nuevas tecnologías y mantenerme actualizado.</b></p>
+<p><b>Soy Joaquín, un amante de la tecnología &#128525;.</b></p> <p>Actualmente estoy cursando un curso de Desarrollo de Aplicaciones Web (DAW). Me encanta aprender nuevas tecnologías y mantenerme actualizado.</p> <br>
 Lenguajes más usados 🚀
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joakamakaka1&layout=compact&theme=dark" alt="Lenguajes más usados" /> </div>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joakamakaka1&layout=compact&theme=dark" alt="Lenguajes más usados" /> </div> <br>
 Contacto 📬
-📧 Correo: jcastrosalas03@gmail.com
-🔗 LinkedIn: joaquin-castro-salas
-<br>
+<p>- 📧 Correo: <a href="mailto:jcastrosalas03@gmail.com">jcastrosalas03@gmail.com</a></p> <p>- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/joaquin-castro-salas-54882b2b6/" target="_blank">joaquin-castro-salas</a></p> <br>
