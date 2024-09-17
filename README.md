@@ -6,8 +6,10 @@ Desarrollador Full Stack <br> <br> <img src="https://img.shields.io/badge/Java-0
 Sobre mí:
 <p><b>Soy Joaquín, un amante de la tecnología &#128525;. Actualmente estoy cursando un curso de Desarrollo de Aplicaciones Web (DAW). Me encanta aprender nuevas tecnologías y mantenerme actualizado.</b></p>
 Estadísticas de mis repositorios 🚀
-<a href="https://github.com/Schleidens"> <img src="https://github-readme-stats.vercel.app/api?username=Schleidens&show_icons=true&theme=dark" /> </a> <a href="https://github.com/Schleidens"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schleidens&layout=compact&theme=dark" /> </a>
+<a href="https://github.com/Joakamakaka1"> <img src="https://github-readme-stats.vercel.app/api?username=Joakamakaka1&show_icons=true&theme=dark" /> </a> <a href="https://github.com/Joakamakaka1"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joakamakaka1&layout=compact&theme=dark" /> </a>
 Contacto 📬
 📧 Correo: jcastrosalas03@gmail.com
 🔗 LinkedIn: joaquin-castro-salas
 <br>
+
+
