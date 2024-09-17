@@ -7,8 +7,8 @@ Técnico Superior de Desarrollo de Aplicaciones Multitplataforma <br> <br> <img 
 <h3>Sobre mí: </h3>
 <p> Graduado en Técnico Superior de Desarrollo de Aplicaciones Multitplataforma. <br> Actualmente estoy cursando un curso de Desarrollo de Aplicaciones Web (DAW). Me encanta aprender nuevas tecnologías y mantenerme actualizado.</p> <br>
 
-<h3>Lenguajes más usados</h3> 🚀 
+<h3>Lenguajes más usados 🚀</h3>  
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 10px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joakamakaka1&layout=compact&theme=dark" alt="Lenguajes más usados" /> </div> <br>
 
-<h3>Contacto </h3>📬
+<h3>Contacto 📬</h3>
 <p>- 📧 Correo: <a href="mailto:jcastrosalas03@gmail.com">jcastrosalas03@gmail.com</a></p> <p>- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/joaquin-castro-salas-54882b2b6/" target="_blank">Joaquin</a></p><br>
