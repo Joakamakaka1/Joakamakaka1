@@ -1,28 +1,39 @@
 # 👋 ¡Hola! Soy Joaquín
 
-**Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y Web (DAW)**
+**Desarrollador Full Stack IA** · LLMs, agentes y evaluación de calidad
 
-¡Apasionado por el desarrollo de software, las buenas prácticas y el aprendizaje continuo! Actualmente trabajando como externo para **Air Europa** y ampliando mis conocimientos cursando un Máster en **Inteligencia Artificial, Cloud Computing y DevOps**.
+Trabajo como externo para **Air Europa** construyendo aplicaciones con LLMs de punta a punta, del backend y la nube a la interfaz. Técnico Superior en DAM y DAW, ahora cursando un Máster en **Inteligencia Artificial, Cloud Computing y DevOps**.
 
-## 💻 Mi Stack Tecnológico:
+## 🧠 Qué hago
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+- **Agentes y backends con LLMs** en Python (FastAPI) y TypeScript: LangGraph, LangChain, Vercel AI SDK, MCP y tools.
+- **Evaluación de calidad** de RAG y LLMs: métricas de recuperación como MRR y Recall, fundamentación, relevancia y LLM-as-a-Judge, con trazas en Langfuse.
+- **Seguridad de LLMs**: guardrails y evaluaciones de seguridad con NeuralTrust.
+- **Cloud en AWS**: Bedrock, S3, S3 Vectors y RDS.
+- **Frontends** con React, Redux Toolkit, Vite y Vitest.
 
----
+## 🛠️ Stack
 
-## 📊 Estadísticas de GitHub
-<div style="display: flex; justify-content: flex-start; gap: 10px; flex-wrap: wrap; margin-top: 10px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joakamakaka1&layout=compact&theme=dark" alt="Lenguajes más usados" />
-</div>
+| Área | Tecnologías |
+| --- | --- |
+| **IA y datos** | <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn" alt="Python, PyTorch, scikit-learn" /><br />LangGraph · LangChain · Vercel AI SDK · MCP · Langfuse · NeuralTrust · Hugging Face · pandas · NumPy · Jupyter |
+| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,nestjs,nodejs,ts,postgres" alt="FastAPI, NestJS, Node.js, TypeScript, PostgreSQL" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,redux,vite,vitest,tailwind,nextjs,js" alt="React, Redux, Vite, Vitest, Tailwind CSS, Next.js, JavaScript" /> |
+| **Cloud y DevOps** | <img src="https://skillicons.dev/icons?i=aws,supabase,vercel,docker,githubactions,terraform,git" alt="AWS, Supabase, Vercel, Docker, GitHub Actions, Terraform, Git" /><br />AWS Bedrock · S3 · S3 Vectors · RDS |
 
-## 🐍 Mis Contribuciones
+## 📊 Lenguajes más usados
+
+<img src="https://raw.githubusercontent.com/Joakamakaka1/Joakamakaka1/main/metrics.languages.svg" alt="Lenguajes más usados" />
+
+## 🐍 Mis contribuciones
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joakamakaka1/Joakamakaka1/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joakamakaka1/Joakamakaka1/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Joakamakaka1/Joakamakaka1/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpiente comiéndose el gráfico de contribuciones" src="https://raw.githubusercontent.com/Joakamakaka1/Joakamakaka1/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
-
 ## 📬 Contacto
-- 📧 Correo: [jcastrosalas03@gmail.com](mailto:jcastrosalas03@gmail.com)
+
+<a href="https://es.linkedin.com/in/joaquin-castro-salas-54882b2b6"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:jcastrosalas03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Correo" /></a>
