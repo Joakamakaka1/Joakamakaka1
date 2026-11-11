@@ -23,6 +23,9 @@ jobs:
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          # Build the image from the pinned source instead of pulling the
+          # mutable ghcr.io/lowlighter/metrics:v3.34 tag, which gets the tokens.
+          use_prebuilt_image: no
           filename: metrics.languages.svg
           base: ""
           plugin_languages: yes
