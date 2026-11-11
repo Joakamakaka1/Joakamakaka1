@@ -19,12 +19,21 @@ jobs:
   languages:
     runs-on: ubuntu-latest
     steps:
+      # The action would pull the mutable ghcr.io/lowlighter/metrics:v3.34 tag,
+      # and that container receives the tokens. Building from source is not an
+      # option either: the v3.34 Dockerfile no longer builds (nokogiri fails).
+      # So pull the official v3.34 image by digest and tag it with the local
+      # name the action looks for (metrics:<package.json version>); with
+      # use_prebuilt_image: no the action then runs it instead of building.
+      - name: Pull metrics image by digest
+        run: |
+          docker pull ghcr.io/lowlighter/metrics@sha256:257392f90340f916cb8b815026f259399f6b246d3eb7de38b58bfe7a07bd5b65
+          docker tag ghcr.io/lowlighter/metrics@sha256:257392f90340f916cb8b815026f259399f6b246d3eb7de38b58bfe7a07bd5b65 metrics:3.34.0
+
       - name: Generate languages card
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # Build the image from the pinned source instead of pulling the
-          # mutable ghcr.io/lowlighter/metrics:v3.34 tag, which gets the tokens.
           use_prebuilt_image: no
           filename: metrics.languages.svg
           base: ""
